@@ -5,3 +5,4 @@ contents of the table includes:
 -light background
 -box-shadow
 -rounded borders.
+-responsive
